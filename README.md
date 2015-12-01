@@ -1,2 +1,2 @@
 # to-mozio
-Mozio's challenge  to create a Django application with Polygons
+Mozio's challenge  to create a Django application with polygons
