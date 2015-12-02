@@ -1,2 +1,2 @@
-# to-mozio
-Mozio's challenge  to create a Django application with polygons
+# Service Area
+Django application with polygons to define areas and searched in the map.
